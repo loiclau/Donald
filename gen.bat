@@ -1,0 +1,1 @@
+"..\php\php.exe" -q index.php > index.html 
