@@ -9,7 +9,7 @@
 
 <?php 
 
-	$url = '.';
+	$url = '../Film';
 	$nb=0;
 	$tmp='#';
 
